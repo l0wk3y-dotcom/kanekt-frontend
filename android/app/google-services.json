@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "279609862593",
+    "project_id": "kanekt-89e07",
+    "storage_bucket": "kanekt-89e07.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279609862593:android:b974da8316c456d0bde740",
+        "android_client_info": {
+          "package_name": "com.example.frontend"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8hX52i_MUkc4WaQ5CeY14kTnxT52Wf_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
